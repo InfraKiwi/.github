@@ -4,4 +4,4 @@ A wannabe infrastructure tooling organization!
 
 ## The kiwi
 
-![](../assets/kiwi-512.png)
+![](https://github.com/InfraKiwi/.github/blob/master/assets/kiwi-512.png?raw=true)
