@@ -14,4 +14,6 @@ For the moment, if you want to support me, you can buy me an espresso on [ko-fi]
 
 ## The kiwi
 
+All hail the 8-bit kiwi! 🥝
+
 ![](https://github.com/InfraKiwi/.github/blob/master/assets/kiwi-512.png?raw=true)
