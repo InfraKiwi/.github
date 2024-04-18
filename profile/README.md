@@ -6,7 +6,7 @@ A wannabe collection of infrastructure tools!
 
 The author of these projects is [Alberto Marchetti](https://www.linkedin.com/in/albertomarchetti/).
 
-The code is (and will be for some good time) disorderly and continuously evolving.
+The code is disorderly and continuously evolving.
 I work on these projects in my free time, so it may take uncountable days before they are in any ready/usable state.
 Also, commits may get squashed occasionally to clean up WIPs.
 
