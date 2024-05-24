@@ -2,6 +2,8 @@
 
 A wannabe collection of infrastructure tools!
 
+You can find the InfraKiwi blog at [https://blog.infra.kiwi](https://blog.infra.kiwi)!
+
 ## Notes from the author
 
 The author of these projects is [Alberto Marchetti](https://www.linkedin.com/in/albertomarchetti/).
